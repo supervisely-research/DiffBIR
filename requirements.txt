@@ -1,0 +1,17 @@
+git+https://github.com/mlfoundations/open_clip@v2.20.0
+pytorch_lightning==1.8.3.post0
+einops
+omegaconf
+lpips
+transformers
+xformers==0.0.20
+torchmetrics
+
+# open-clip-torch
+# triton
+# opencv-python-headless
+# scipy
+# matplotlib
+# gradio
+# chardet
+# facexlib
